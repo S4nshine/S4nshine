@@ -31,16 +31,6 @@
 
 ---
 
-## 📂 What You'll Find Here
-
-| Repo | Description |
-|------|-------------|
-|  `recon-toolkit` | Automated recon scripts for bug bounty |
-|  `cloud-misconfig-scanner` | Cloud security misconfiguration checks |
-|  `writeups` | CVE analyses & bug bounty write-ups |
-|  `pentest-cheatsheets` | Quick reference for engagements |
-
----
 
 
 ## 📫 Let's Connect
